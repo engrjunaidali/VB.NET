@@ -1,0 +1,6 @@
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.vbprojAssemblyReference.cache
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.Register.resources
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.vbproj.GenerateResource.cache
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.AssemblyInfoInputs.cache
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.AssemblyInfo.vb
+C:\Users\Junaid\Desktop\VBapp\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.vbproj.CoreCompileInputs.cache
